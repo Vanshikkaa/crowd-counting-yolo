@@ -1,4 +1,5 @@
-👥 YOLO-based People Counter
+👥# Crowd Counting Yolo
+
 A real-time people counting system using YOLO (You Only Look Once) for object detection and SORT (Simple Online and Realtime Tracking) for tracking. Counts people moving upwards and downwards in a video stream, with live visualizations!
 
 🚩 Overview
