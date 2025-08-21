@@ -16,9 +16,13 @@ This project combines **YOLO’s object detection** capabilities with **SORT’s
 ## ✨ Key Features
 
 ✔️ **Object Detection** – Detects people using YOLO (pre-trained weights).
+
 ✔️ **Real-time Counting** – Counts upward/downward movements live.
+
 ✔️ **Object Tracking** – Tracks each person across frames with SORT and assigns unique IDs.
+
 ✔️ **Confidence Filtering** – Excludes weak detections below a configurable confidence threshold.
+
 ✔️ **Live Visualization** – Displays bounding boxes, IDs, and ongoing counts on the video feed.
 
 
